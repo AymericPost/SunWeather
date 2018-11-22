@@ -22,7 +22,7 @@ Voir [le guide d'installation d'Angular](https://angular.io/guide/quickstart).
 ```Shell
 git clone https://github.com/AymericPost/laloupe-0918-jsjee-SunWeather.git
 ```
-2. Instalez les dépendances. Entrez dans le dossiez téléchargé et entrez le terminal la commande :
+2. Instalez les dépendances. Entrez dans le dossier téléchargé et entrez le terminal la commande :
 ```Shell
 npm install
 ```
