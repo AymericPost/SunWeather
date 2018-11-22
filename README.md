@@ -1,27 +1,43 @@
-# Nasa
+# SunWeather: La météo du soleil
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+Ceci est le rendu de mon équipe sur le deuxième projet donné par la Wild Code School. Le but était de se familiariser avec Angular et l'utilisation d'APIs pour alimenter un site. Ce site a été réalisé par une équipe de 4 élèves pendant le deuxième mois de la formation Développeur Web et Mobile.
 
-## Development server
+## Execution
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Pré-requis
 
-## Code scaffolding
+- Node.js
+- npm
+- Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Voyez [le guide d'installation d'Angular](https://angular.io/guide/quickstart).
 
-## Build
+### Installer
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+1. Téléchargez le projet ou entrez dans le terminal :
+```Shell
+git clone https://github.com/AymericPost/laloupe-0918-jsjee-SunWeather.git
+```
+2. Instalez les dépendances. Entrez dans le dossiez téléchargé et entrez le terminal la commande :
+```Shell
+npm install
+```
 
-## Running unit tests
+### Compiler le site
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Lancez le serveur et la compilation depuis le dossier téléchargé avec la commande :
+```Shell
+ng serve -o
+```
 
-## Running end-to-end tests
+## Framework utilisés
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- [Angular](https://angular.io/)
+- [Bootstrap](https://getbootstrap.com/)
 
-## Further help
+## Auteurs
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- [Clément Godard](https://github.com/StartsClems)
+- [Sébastien Domaradzki](https://github.com/titiseb28)
+- [Karine Malghem](https://github.com/karinemalghem)
+- [Aymeric Post](https://github.com/AymericPost)
