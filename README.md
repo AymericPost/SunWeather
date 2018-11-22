@@ -10,7 +10,7 @@ Ceci est le rendu de mon équipe sur le deuxième projet donné par la Wild Code
 - npm
 - Angular CLI
 
-Voyez [le guide d'installation d'Angular](https://angular.io/guide/quickstart).
+Voir [le guide d'installation d'Angular](https://angular.io/guide/quickstart).
 
 ### Installer
 
