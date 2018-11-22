@@ -4,6 +4,10 @@ Ceci est le rendu de mon équipe sur le deuxième projet donné par la Wild Code
 
 ## Execution
 
+### Le site
+
+Si vous ne souhaitez pas installer et compiler le site et ses pré-requis, un rendu est disponnible sur [Github Pages : SunWeather](https://clementgodard.github.io/SunWeather/).
+
 ### Pré-requis
 
 - Node.js
